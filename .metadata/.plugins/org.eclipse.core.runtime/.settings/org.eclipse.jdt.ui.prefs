@@ -1,4 +1,4 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="Ex3.payroll"><rhs name\="Ex3.payroll"/></lhs><lhs name\="EX4.Book"><rhs name\="EX4.Book"/></lhs><lhs name\="Ex5.Student"><rhs name\="Ex5.Student"/></lhs><lhs name\="Ex6.job"><rhs name\="Ex6.job"/></lhs><lhs name\="Ex6_1.point"><rhs name\="Ex6_1.point"/></lhs><lhs name\="Ex7_02.readGender"><rhs name\="Ex7_02.readGender"/></lhs><lhs name\="Ex8.readANumber"><rhs name\="Ex8.readANumber"/></lhs><lhs name\="Ex9_03_Clock.clock"><rhs name\="Ex9_03_Clock.clock"/></lhs><lhs name\="Ex10_4.fibonnaci"><rhs name\="Ex10_4.fibonnaci"/></lhs></history>
 content_assist_number_of_computers=13
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0

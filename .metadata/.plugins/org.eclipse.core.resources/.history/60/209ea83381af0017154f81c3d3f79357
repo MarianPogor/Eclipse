@@ -1,0 +1,15 @@
+package loops;
+
+public class loops_for
+{
+
+   public static void main(String[] args)
+   {
+      for (int i = 10; i <= 1000; i--)
+      {
+      System.out.print(i + " ");
+      }
+
+   }
+
+}

@@ -1,2 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Ex3.myDateTest"/>
+<fullyQualifiedTypeName name="Ex3.payroll"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicSplitPaneUI.KeyboardDownRightHandler"/>
+<fullyQualifiedTypeName name="EX4.Book"/>
+<fullyQualifiedTypeName name="javax.security.sasl.AuthorizeCallback"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="Ex5.studentTest"/>
+<fullyQualifiedTypeName name="Ex5.Student"/>
+<fullyQualifiedTypeName name="Ex3.person"/>
+<fullyQualifiedTypeName name="Ex6.job"/>
+<fullyQualifiedTypeName name="Ex6_1.point"/>
+<fullyQualifiedTypeName name="java.lang.ProcessBuilder.Redirect"/>
+<fullyQualifiedTypeName name="Ex7_02.readGender"/>
+<fullyQualifiedTypeName name="ex2.scannerperson"/>
+<fullyQualifiedTypeName name="hello.GetHelloTextResponse"/>
+<fullyQualifiedTypeName name="hello.stub.HelloStub"/>
+<fullyQualifiedTypeName name="Ex8.readANumber"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="Ex3.myDate"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="Ex9.randomNumber"/>
+<fullyQualifiedTypeName name="java.time.Duration"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+<fullyQualifiedTypeName name="java.time.Clock"/>
+<fullyQualifiedTypeName name="Ex9_03_Clock.clock"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="Ex10_4.fibonnaci"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,46 @@
+package Ex10_06;
+
+import java.util.Random;
+import java.util.Scanner;
+
+public class Guess
+{
+
+   public static void main(String[] args)
+   {
+      while(true)
+      {
+      Random nrrandom = new Random();
+      int random = (int) (Math.random() * 5 + 1);
+      System.out.println("Guess nr");
+
+      Scanner keyboard = new Scanner(System.in);
+      System.out.print("Enter a number in the range 1-1000: ");
+      int number = keyboard.nextInt();
+
+      if (random == number)
+      
+      
+         {
+            System.out.println("The number is :" + random);
+         }
+         
+         if (random < number)
+         {
+            System.out.println("is too high");
+            System.out.println("enter another number:");
+            number = keyboard.nextInt();
+         }
+
+         else if (random > number)
+         {
+            System.out.println("is too low");
+            System.out.println("enter another number:");
+            number = keyboard.nextInt();
+         }
+
+      }
+
+      }
+
+}
