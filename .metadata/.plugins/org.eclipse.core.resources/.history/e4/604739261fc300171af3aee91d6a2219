@@ -1,0 +1,16 @@
+import java.sql.Connection;
+
+/*Retrieve all blond mothers, joined with their children
+For each retrieved mother/child combination
+ If child is born in 2012
+ increment counter
+ End-if
+End-for*/
+
+public class QuestionSix extends QuestionRunner 
+{
+   public QuestionSix(Connection iconn)
+   {
+      this.conn = iconn;
+   }
+}

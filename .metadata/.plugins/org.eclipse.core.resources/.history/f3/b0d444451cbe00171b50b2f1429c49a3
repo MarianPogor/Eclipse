@@ -1,0 +1,26 @@
+import java.sql.*;
+
+public class QuestionThree extends QuestionRunner
+{
+   public QuestionThree(Connection iconn)
+   {
+
+      this.conn = iconn;
+   }   
+
+   public void runCase() throws SQLException
+   {
+
+      Statement stmtMother = conn.createStatement();
+      Statement stmtChild = conn.createStatement();
+      int noOfChildren = 0;
+      
+      ResultSet rsChild = stmtChild
+            .executeQuery("select id, hairColor from mother");
+      
+      
+   }
+   
+   
+   
+}

@@ -28,12 +28,21 @@
 			<item value="org.eclipse.ui.Basic"/>
 		</list>
 	</section>
+	<section name="ZipFileImportWizard">
+		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="F:\School\SEM3\SDJ2+SCRUM\SEP2\SEP2 Alex 13 dec.zip"/>
+		</list>
+	</section>
 	<section name="FileSystemImportWizard">
 		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
 		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
-			<item value="F:\DP\D\Worlshops\workspace\EXPrepare\bin\Ex4"/>
-			<item value="F:\DP\D\Worlshops\workspace\Midterm EX"/>
+			<item value="F:\School\SEM3\SDJ2+SCRUM\SEP2\SDJ2-Java-master\SDJ2-Java-master\Sep2-Final"/>
+			<item value="F:\School\SEM3\SDJ2+SCRUM\SEP2\SEP2 Alex 13 dec\src\factory"/>
+			<item value="F:\School\SEM3\SDJ2+SCRUM\SEP2\SEP2 Alex 13 dec\src\adaptor"/>
+			<item value="F:\School\SEM3\ADS\src\GUI"/>
+			<item value="F:\School\SEM3\ADS\src\Code"/>
 		</list>
 	</section>
 </section>
